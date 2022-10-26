@@ -1,10 +1,11 @@
 import Title from './components/Title';
 
 
+
 const App = () => {
   return (
     <div >
-      Hello
+      <Title/>
     </div>
   );
 }
